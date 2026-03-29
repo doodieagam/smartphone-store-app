@@ -75,4 +75,3 @@ curl -X POST http://localhost:3000/auth/login \
 - `/register` - User register
 
 **All syntax errors fixed, imports complete, full integration working!** 🎉
-# smartphone-store-app
